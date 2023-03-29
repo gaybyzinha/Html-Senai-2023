@@ -1,0 +1,6 @@
+h1{
+  animation: myanimation 1s ease-in-out infinite; }
+     @keyframes myanimation2 { 0% { transform: translateX(0); } 50%
+     { transform: translateX(50px); } 100% { transform: translateX(0); } 
+    }
+
